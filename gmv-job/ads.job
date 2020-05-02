@@ -1,0 +1,4 @@
+type=command
+do_date=${dt}
+dependencies=dws
+command=/usr/local/bin/ads_db_gmv.sh ${do_date}

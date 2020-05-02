@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bed932ec-8188-4d23-b2a6-b4afba2e7689" name="Default" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>../static/</find>
+      <find />
+      <find>aaData</find>
+      <find>load</find>
+      <find>reload</find>
+      <find>\n</find>
+      <find>main1</find>
+      <find>fu-arrow-container</find>
+      <find>loadData</find>
+      <find>ads_user_retention_day</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1b3zf2uZxWE4LuMYx5KWG0aC8wX" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringJavaInjectionPointsAutowiringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.demo.model" />
+      <recent name="com.demo.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\gitProject\spring-boot-echarts-master\src\main\resources\static\assets\css" />
+      <recent name="D:\gitProject\spring-boot-echarts-master\src\main\resources\templates" />
+      <recent name="D:\gitProject\spring-boot-echarts-master\src\main\resources\mapper" />
+      <recent name="D:\spring-boot-echarts-master\src\main\resources\static\assets\js" />
+      <recent name="D:\spring-boot-echarts-master\src\main\resources\static\assets\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\spring-boot-echarts-master\src\main\resources\templates" />
+      <recent name="D:\spring-boot-echarts-master\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-echarts" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bed932ec-8188-4d23-b2a6-b4afba2e7689" name="Default" comment="" />
+      <created>1549771978813</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549771978813</updated>
+      <workItem from="1549771993645" duration="2369000" />
+      <workItem from="1549778559105" duration="27574000" />
+      <workItem from="1549845741866" duration="25085000" />
+      <workItem from="1549888270282" duration="733000" />
+      <workItem from="1550037150952" duration="1144000" />
+      <workItem from="1550052374971" duration="923000" />
+      <workItem from="1550104702415" duration="29950000" />
+      <workItem from="1550157998861" duration="2418000" />
+      <workItem from="1550160673088" duration="425000" />
+      <workItem from="1550161299722" duration="839000" />
+      <workItem from="1550204458667" duration="4611000" />
+      <workItem from="1550209581040" duration="480000" />
+      <workItem from="1550655945297" duration="680000" />
+      <workItem from="1551176560698" duration="6955000" />
+      <workItem from="1551248553392" duration="3103000" />
+      <workItem from="1551500671486" duration="668000" />
+      <workItem from="1551746332301" duration="39000" />
+      <workItem from="1552290510112" duration="3488000" />
+      <workItem from="1552362814294" duration="8939000" />
+      <workItem from="1552378452016" duration="5212000" />
+      <workItem from="1552454115610" duration="1601000" />
+      <workItem from="1552455758116" duration="3942000" />
+      <workItem from="1552471103102" duration="11457000" />
+      <workItem from="1552488647588" duration="5561000" />
+      <workItem from="1552533152153" duration="2037000" />
+      <workItem from="1553233885801" duration="246000" />
+      <workItem from="1553235502100" duration="56000" />
+      <workItem from="1556448174341" duration="8821000" />
+      <workItem from="1556517498824" duration="5296000" />
+      <workItem from="1556532805103" duration="717000" />
+      <workItem from="1557823768323" duration="795000" />
+      <workItem from="1557831714957" duration="170000" />
+      <workItem from="1557832354159" duration="103000" />
+      <workItem from="1557914753206" duration="82000" />
+      <workItem from="1558073111141" duration="457000" />
+      <workItem from="1558434989162" duration="5878000" />
+      <workItem from="1558502462693" duration="18800000" />
+      <workItem from="1558573356710" duration="10417000" />
+      <workItem from="1558590186813" duration="1164000" />
+      <workItem from="1587875694726" duration="551000" />
+      <workItem from="1587876282769" duration="3146000" />
+      <workItem from="1587998477464" duration="807000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="583" y="308" width="394" height="217" key="Github.CreateGistDialog" timestamp="1587875846849">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="583" y="308" width="394" height="217" key="Github.CreateGistDialog/0.0.1536.834@0.0.1536.834" timestamp="1587875846849" />
+    <state width="1493" height="319" key="GridCell.Tab.0.bottom" timestamp="1587999304579">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="319" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587999304579" />
+    <state width="1493" height="319" key="GridCell.Tab.0.center" timestamp="1587999304579">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="319" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1587999304579" />
+    <state width="1493" height="319" key="GridCell.Tab.0.left" timestamp="1587999304579">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="319" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1587999304579" />
+    <state width="1493" height="319" key="GridCell.Tab.0.right" timestamp="1587999304579">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="319" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1587999304579" />
+    <state width="1493" height="319" key="GridCell.Tab.1.bottom" timestamp="1587999304580">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="319" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1587999304580" />
+    <state width="1493" height="319" key="GridCell.Tab.1.center" timestamp="1587999304579">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="319" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1587999304579" />
+    <state width="1493" height="319" key="GridCell.Tab.1.left" timestamp="1587999304579">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="319" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1587999304579" />
+    <state width="1493" height="319" key="GridCell.Tab.1.right" timestamp="1587999304580">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="319" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1587999304580" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

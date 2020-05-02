@@ -1,0 +1,8 @@
+
+n	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿¼ŸE
+8
+java:S3626%"Remove this redundant jump.(ûÁÝ…8†Ó”Öš.
+f
+java:S2583*"DChange this condition so that it does not always evaluate to "false"(Ï¶“”øÿÿÿÿ8ÈÝ–Öš.
+W
+java:S11410"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÚÒ§Öš.

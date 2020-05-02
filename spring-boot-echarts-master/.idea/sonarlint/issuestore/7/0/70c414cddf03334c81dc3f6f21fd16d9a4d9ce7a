@@ -1,0 +1,15 @@
+
+d
+java:S44889"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(†´œ8úıÁ¦›.
+[
+java:S3752(">Add a "method" parameter to this "@RequestMapping" annotation.(Ğ‘‰€8úıÁ¦›.
+o
+java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").(èÒ’
+[
+java:S3752"">Add a "method" parameter to this "@RequestMapping" annotation.(Ç‘ƒ8úıÁ¦›.
+`
+java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(êšĞøÿÿÿÿ8úıÁ¦›.
+[
+java:S3752.">Add a "method" parameter to this "@RequestMapping" annotation.(“äé§8úıÁ¦›.
+`
+java:S37523">Add a "method" parameter to this "@RequestMapping" annotation.(À¨ßùÿÿÿÿ8úıÁ¦›.

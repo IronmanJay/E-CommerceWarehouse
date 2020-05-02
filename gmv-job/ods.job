@@ -1,0 +1,4 @@
+type=command
+do_date=${dt}
+dependencies=import
+command=/usr/local/bin/ods_db.sh ${do_date}

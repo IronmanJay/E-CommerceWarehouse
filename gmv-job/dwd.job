@@ -1,0 +1,4 @@
+type=command
+do_date=${dt}
+dependencies=ods
+command=/usr/local/bin/dwd_db.sh ${do_date}

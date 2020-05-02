@@ -1,0 +1,41 @@
+
+8	java:S131Ë""Add a default case to this switch.(ÁÅ®
+a
+java:S13010"KReplace this "switch" statement by "if" statements to increase readability.(ÁÅ®
+8	java:S131±""Add a default case to this switch.(ÁÅ®
+8	java:S131ö""Add a default case to this switch.(ÁÅ®
+f
+java:S3008"PRename this field "s_mid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(›šÛğ
+8	java:S131á""Add a default case to this switch.(ÁÅ®
+8	java:S131¢""Add a default case to this switch.(ÁÅ®
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òïÃ
+4
+java:S2119Œ"Save and re-use this "Random".(¼İÅf
+b
+java:S1301™"KReplace this "switch" statement by "if" statements to increase readability.(ÁÅ®
+8	java:S131ˆ""Add a default case to this switch.(ÁÅ®
+]
+java:S2142‘"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
+8	java:S131¸""Add a default case to this switch.(ÁÅ®
+7	java:S1310""Add a default case to this switch.(ÁÅ®
+b
+java:S1301Â"KReplace this "switch" statement by "if" statements to increase readability.(ÁÅ®
+g	java:S128Ã"LEnd this switch case with an unconditional break, return or throw statement.(£Ş¾Ëşÿÿÿÿ
+4
+java:S2119ß"Save and re-use this "Random".(¼İÅf
+[
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(¤‘¢
+g	java:S128š"LEnd this switch case with an unconditional break, return or throw statement.(£Ş¾Ëşÿÿÿÿ
+m
+java:S3776*"RRefactor this method to reduce its Cognitive Complexity from 38 to the 15 allowed.(Ğ±ªàüÿÿÿÿ
+4
+java:S2119ú"Save and re-use this "Random".(¼İÅf
+o
+java:S3008"TRename this field "s_goodsid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(åàÜøÿÿÿÿ
+b
+java:S1301®"KReplace this "switch" statement by "if" statements to increase readability.(ÁÅ®
+8	java:S131Í""Add a default case to this switch.(ÁÅ®
+8	java:S131Â""Add a default case to this switch.(ÁÅ®
+8	java:S131™""Add a default case to this switch.(ÁÅ®
+k
+java:S3008"PRename this field "s_uid" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(û˜šÌúÿÿÿÿ
